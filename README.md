@@ -1,4 +1,4 @@
-# reddit_clone
+# Zeddit
 
 A new Flutter project.
 
