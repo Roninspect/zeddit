@@ -1,6 +1,6 @@
 # Zeddit
 
-A new Flutter project.
+A reddit like app for joining your favourite community & Interact with others
 
 ## Getting Started
 
