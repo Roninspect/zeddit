@@ -1,5 +1,5 @@
 # <p align="center">
-// Zeddit
+ Zeddit
 </p>
 
 A reddit like app for joining your favourite community & Interact with others
