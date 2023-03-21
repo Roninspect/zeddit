@@ -2,7 +2,7 @@
 
 A reddit like app for joining your favourite community & Interact with others
 
-## Features
+## **Features**
 
 * Google/Guest Authentication
 * Create, Join community
