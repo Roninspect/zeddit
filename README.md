@@ -1,8 +1,10 @@
-# <p align="center">
- Zeddit
-</p>
+<h1 align="center"> Zeddit</h1>
+<h2 align="center"> Open source alternative to Reddit</h2>
 
-A reddit like app for joining your favourite community & Interact with others
+<h2 align="center"> A reddit like app for joining your favourite community & Interact with others</h2>
+
+
+
 
 ## **Features**
 
