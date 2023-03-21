@@ -23,6 +23,5 @@
 * Delete post
 * User Profile (Avatar, Banner)
 * Theme Switch
-* Cross Platform
-* Responsive UI
+* Cross Platform(Android & IOS)
 * Latest posts (instead of home, display this to guest users)
